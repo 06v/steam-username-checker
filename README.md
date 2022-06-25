@@ -1,12 +1,14 @@
 # Steam Username Checker
 
-This is an simple to use Checker which is written in Python with aiohttp for the best results.
+This is a simple to use Checker which is written in Python with aiohttp for the best results.
+
+You may consider combining my Tiktok Username Checker with my Random Character Generator for best Results: https://github.com/accomodate/random-character-generator
 
 ## Instructions
 
 1) Download the Source Code
 
-2) Open an Terminal
+2) Open a Terminal / CMD
 
 3) Run this Command in it :
    
@@ -18,7 +20,7 @@ pip install -r requirements.txt
    
    4.1) Input your Usernames into usernames.txt
    
-   You doubleclick steam-username-checker.py and it should instantly start checking for available usernames.
+   Doubleclick steam-username-checker.py and it should instantly start checking for available usernames.
    
    4.2) Available Usernames are saved into available.txt
    
@@ -45,7 +47,6 @@ This is 100% educational, please do not misuse this tool.
        
 ## Contact
 
-Discord : enes#1234
-Steam : 7ke
+Discord : enes#5555
 
-Feel free to create an Pull Request. If there is an Error please open an Issue so I can look into it a.s.a.p! :) 
+Feel free to create a Pull Request. If there is an Error please open an Issue so I can look into it a.s.a.p! :) 
